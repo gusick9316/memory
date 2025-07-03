@@ -1,0 +1,8 @@
+{
+  "name": "테스터2",
+  "type": "teacher",
+  "imagePath": "학생목록/테스터2/image.png",
+  "order": 2,
+  "createdAt": "2025-07-03T09:32:16.829Z",
+  "updatedAt": "2025-07-03T16:59:21.031Z"
+}
