@@ -1,0 +1,7 @@
+{
+  "name": "선생님",
+  "type": "teacher",
+  "imagePath": "학생목록/선생님/image.png",
+  "order": 1,
+  "createdAt": "2025-07-03T09:32:03.618Z"
+}
