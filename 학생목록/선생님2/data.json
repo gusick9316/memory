@@ -2,6 +2,6 @@
   "name": "선생님2",
   "type": "teacher",
   "imagePath": "학생목록/선생님2/image.png",
-  "order": 2,
+  "order": 1,
   "createdAt": "2025-07-03T09:32:16.829Z"
 }
