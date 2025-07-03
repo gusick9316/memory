@@ -2,7 +2,7 @@
   "name": "학생2",
   "type": "student",
   "imagePath": "학생목록/학생2/image.png",
-  "order": 2,
+  "order": 1,
   "createdAt": "2025-07-03T10:46:59.114Z",
   "updatedAt": "2025-07-03T17:00:34.666Z"
 }
