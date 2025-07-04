@@ -1,0 +1,35 @@
+[
+  {
+    "title": "테스트1",
+    "author": "김구식",
+    "year": 2025,
+    "month": 7,
+    "day": 2,
+    "date": "2025-07-02",
+    "imagePath": "추억/테스트1/image.jpg",
+    "createdAt": "2025-07-04T09:34:30.117Z",
+    "folder": "테스트1"
+  },
+  {
+    "title": "테스트2",
+    "author": "김구식",
+    "year": 2025,
+    "month": 7,
+    "day": 3,
+    "date": "2025-07-03",
+    "imagePath": "추억/테스트2/image.jpg",
+    "createdAt": "2025-07-04T09:33:34.415Z",
+    "folder": "테스트2"
+  },
+  {
+    "title": "테스트3",
+    "author": "김구식",
+    "year": 2025,
+    "month": 7,
+    "day": 4,
+    "date": "2025-07-04",
+    "imagePath": "추억/테스트3/image.jpg",
+    "createdAt": "2025-07-04T09:32:52.325Z",
+    "folder": "테스트3"
+  }
+]
